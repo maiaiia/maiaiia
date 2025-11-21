@@ -6,7 +6,7 @@
 # 📊 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=maiaiia&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="maiaiia's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiaiia&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="maiaiia's GitHub Stats" />
-![GitHub Stats](https://streak-stats.demolab.com?user=maiaiia&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=maiaiia&theme=radical&hide_border=true" alt="maiaiia's GitHub Stats" />
 
 
 <!--
