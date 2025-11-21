@@ -1,7 +1,13 @@
-## Hi there 👋
+# 💫 About me
 
 # Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff) 
+
+# 📊 Github stats
+<img src="https://github-readme-stats.vercel.app/api?username=maiaiia&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="maiaiia's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiaiia&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="maiaiia's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=maiaiia&theme=radical&hide_border=true" alt="maiaiia's GitHub Stats" />
+
 
 <!--
 **maiaiia/maiaiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
